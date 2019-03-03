@@ -108,18 +108,29 @@ publications:
       - title: "DCStore: A Deduplication-Based Cloud-of-Clouds Storage Service"
         authors: Bo An, Yan Li, Junming Ma, Donggang Cao, Gang Huang
         conference: IEEE International Conference on Web Service (ICWS 2019), Milan, Italy, Jul 8-13, 2019
+        source: "../assets/pdfs/icws_2019_anbo.pdf"
+        published: false
+        accepted: false
 
       - title: "Comparison between Chunk-based and Layer-based Container Image Storage Approaches: an Empirical Study"
         authors: Yan Li, Bo An, Junming Ma, Donggang Cao
         conference: The 10th International Workshop on Joint Cloud Computing (JCC2019), San Francisco, USA, Apr 4-9, 2019
+        source: "../assets/pdfs/jcc_2019_ly.pdf"
+        published: false
+        accepted: true
 
       - title: "GPU Scheduling for Short Tasks in Private Cloud"
         authors: Jialun Shao, Junming Ma, Yan Li, Bo An, Donggang Cao
         conference: The 10th International Workshop on Joint Cloud Computing (JCC2019), San Francisco, USA, Apr 4-9, 2019
+        source: "../assets/pdfs/jcc_2019_sjl.pdf"
+        published: false
+        accepted: true
       
       - title: "BDViewer - A Web-Based Big Data Processing and Visualization Tool"
         authors: Yan Li, Bo An, Junming Ma, Donggang Cao
         conference: IEEE International Conference on Computers Software and Applications (COMPSAC2018), Tokyo, Japan, Jul 23-27
+        source: "../assets/pdfs/compsac_2018_ly.pdf"
+        published: true
 
 skills:
     title: Skills &amp; Proficiency

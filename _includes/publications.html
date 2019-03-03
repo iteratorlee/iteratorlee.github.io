@@ -21,7 +21,17 @@
     <div class="publication-title">{{ publication.title }}</div>
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
-    <div class="publication-source">{{ publication.source }}</div>
+    {% if publication.published %}
+    <div class="publication-source">
+        <a href="{{ publication.source  }}" target="_blank">paper[pdf]</a>
+    </div>
+    {% else %}
+        {% if publication.accepted %}
+        <div class="publication-source">to appear</div>
+        {% else %}
+        <div class="publication-source">under review</div>
+        {% endif %}
+    {% endif %}
   </div><!--//item-->
   {% endfor %}
 
