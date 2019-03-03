@@ -1,14 +1,18 @@
 ---
-bg: "rails.jpg"
 layout: default
-crawlertitle: "Jekyll blog"
-title: "Voyager"
-summary: "main page"
 ---
 
-{% for post in site.posts limit: 5 %}
-  <article class="index-page">
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    {{ post.excerpt }}
-  </article>
-{% endfor %}
+
+{% include career-profile.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include experiences.html %}
+
+{% include projects.html %}
+
+{% include publications.html %}
+
+{% include skills.html %}
