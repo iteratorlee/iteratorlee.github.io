@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Yan Li/李炎
@@ -49,24 +49,15 @@ education:
       university: Peking Unviversity
       time: 2018 - 2021 (excepted)
       details: |
-        
-          - Bullet point
-          - Bullet point
 
     - degree: BSc in Computer Science
       university: Peking University
       time: 2014 - 2018
       details: |
-
-          - Bullet point
-          - Bullet point
+          - Award of Scientific Research, Dec. 2017.
+          - Scholarship of Freshman, Sep. 2014
 
 experiences:
-    - role: Master Student
-      time: 2018.09 - Present
-      company: Peking Unviersity, Beijing
-      details: |
-
     - role: Intern of Recommendation Algorithm Engineer
       time: 2018.01 - 2018.08
       company: Bytedance, Beijing
@@ -75,11 +66,6 @@ experiences:
     - role: Intern of Operating System Development Engineer
       time: 2017.07 - 2017.08
       company: Huawei, Beijing
-      details: |
-
-    - role: Undergraduate Student
-      time: 2014.09 - 2018.07
-      company: Peking University, Beijing
       details: |
 
 projects:
