@@ -55,7 +55,8 @@ education:
       time: 2014 - 2018
       details: |
           - Award of Scientific Research, Dec. 2017.
-          - Scholarship of Freshman, Sep. 2014
+          - Meritorious Winner of Mathematical Contest in Modeling, Apr. 2017.
+          - Scholarship of Freshman, Sep. 2014.
 
 experiences:
     - role: Intern of Recommendation Algorithm Engineer
@@ -115,22 +116,9 @@ publications:
       
       - title: "BDViewer - A Web-Based Big Data Processing and Visualization Tool"
         authors: Yan Li, Bo An, Junming Ma, Donggang Cao
-        conference: IEEE International Conference on Computers Software and Applications (COMPSAC2018), Tokyo, Japan, Jul 23-27
+        conference: IEEE International Conference on Computers Software and Applications (COMPSAC2018), Tokyo, Japan, Jul 23-27, 2018
         source: "../assets/pdfs/compsac_2018_ly.pdf"
         published: true
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python
-        level: 98%
-
-      - name: Golang
-        level: 95%
-
-      - name: C++
-        level: 80%
 
 footer: >
     Designed by Yan Li
