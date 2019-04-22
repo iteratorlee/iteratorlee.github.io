@@ -98,7 +98,7 @@ publications:
         conference: IEEE International Conference on Web Service (ICWS 2019), Milan, Italy, Jul 8-13, 2019
         source: "../assets/pdfs/icws_2019_anbo.pdf"
         published: false
-        accepted: false
+        accepted: true
 
       - title: "Comparison between Chunk-based and Layer-based Container Image Storage Approaches: an Empirical Study"
         authors: Yan Li, Bo An, Junming Ma, Donggang Cao
