@@ -12,8 +12,8 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: yan DOT l AT pku DOT edu DOT cn
-    phone: +86 18801168607
+    email: yan.l AT pku DOT edu DOT cn
+    phone:
     website: iteratorlee.github.io #do not add http://
     github: iteratorlee
     gitlab:
