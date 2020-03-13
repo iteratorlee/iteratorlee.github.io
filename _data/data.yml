@@ -94,7 +94,7 @@ publications:
       Here are some of my publications.
 
     papers:
-      - title: "SpotTune: Leveraging Transient Resources for Cost-efficient Hyper-parameter Tuning in the Public Cloud
+      - title: "SpotTune: Leveraging Transient Resources for Cost-efficient Hyper-parameter Tuning in the Public Cloud"
         authors: Yan Li, Bo An, Junming Ma, Donggang Cao, Hong Mei
         conference: The 40th IEEE International Conference on Distributed Computing Systems (ICDCS 2020), Singapore, Jul 8-10, 2020
         published: false
