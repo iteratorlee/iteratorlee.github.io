@@ -96,7 +96,7 @@ publications:
     papers:
       - title: "SpotTune: Leveraging Transient Resources for Cost-efficient Hyper-parameter Tuning in the Public Cloud"
         authors: Yan Li, Bo An, Junming Ma, Donggang Cao, Hong Mei
-        conference: The 40th IEEE International Conference on Distributed Computing Systems (ICDCS 2020), Singapore, Jul 8-10, 2020
+        conference: The 40th IEEE International Conference on Distributed Computing Systems (ICDCS 2020), Singapore, Nov 29-Dec 1, 2020
         published: false
         accepted: true
       
@@ -108,13 +108,13 @@ publications:
         
       - title: "Cross-domain Workloads Performance Prediction via Runtime Metrics Transferring"
         authors: Yan Li, Junming Ma, Donggang Cao
-        conference: The 11th International Workshop on Joint Cloud Computing (JCC2020), TBD
+        conference: The 11th International Workshop on Joint Cloud Computing (JCC2020), Oxford, UK, Aug 3-6, 2020
         published: false
         accepted: true
         
       - title: "CloudMeter: A Tool To Select the Best Cloud Service"
         authors: Dian Jin, Yan Li, Donggang Cao
-        conference: The 11th International Workshop on Joint Cloud Computing (JCC2020), TBD
+        conference: The 11th International Workshop on Joint Cloud Computing (JCC2020), Oxford, UK, Aug 3-6, 2020
         published: false
         accepted: true
       
