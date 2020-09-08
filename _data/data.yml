@@ -95,7 +95,7 @@ publications:
 
     papers:
       - title: "SpotTune: Leveraging Transient Resources for Cost-efficient Hyper-parameter Tuning in the Public Cloud"
-        authors: Yan Li, Bo An, Junming Ma, Donggang Cao, Hong Mei
+        authors: Yan Li, Bo An, Junming Ma, Donggang Cao, Yasha Wang, Hong Mei
         conference: The 40th IEEE International Conference on Distributed Computing Systems (ICDCS 2020), Singapore, Nov 29-Dec 1, 2020
         published: false
         accepted: true
