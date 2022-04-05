@@ -61,6 +61,11 @@ education:
           - Courses: Lab. on Operating Systems(94)/Computer Network(94)/Advanced Algebra(92)/Lab. on Compiler Design(91)/Mathematical Logic(91)/Mathematical Analysis(90)/etc.
 
 experiences:
+    - role: Research Intern
+      time: 2022.02 - now
+      company: Bytedance, Beijing
+      details: |
+      
     - role: Intern of Recommendation Algorithm Engineer
       time: 2018.01 - 2018.08
       company: Bytedance, Beijing
