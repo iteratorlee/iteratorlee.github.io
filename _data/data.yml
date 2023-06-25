@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yan Li/李炎
-    tagline: Ph.D. Student @ PKU
+    # tagline: Ph.D. Student @ PKU
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -39,14 +39,15 @@ sidebar:
 career-profile:
     title: Brief Introduction
     summary: |
-        Hi, welcome to my homepage! I am Yan Li/李炎, a Ph.D. student at [Software Engineering Institue](http://sei.pku.edu.cn), 
-        [School of Electronics Engineering & Computer Science](http://eecs.pku.edu.cn), [Peking University](https://pku.edu.cn). 
-        My major is Computer Software and Theory. Currently, my research mainly focuses on distributed system, cloud computing and machine learning system.
+        Hi, welcome to my homepage! I am Yan Li/李炎. I received my PhD degree in Computer Software and Theroy from [Software Engineering Institue](http://www.sei.pku.edu.cn), 
+        [School of Computer Science](http://cs.pku.edu.cn), [Peking University](https://pku.edu.cn). 
+        Currently, I am a Research Engineer at Huawei. My research mainly focuses on 
+        distributed systems, cloud computing and machine learning system.
 
 education:
-    - degree: Ph.D. in Computer Science
+    - degree: PhD in Computer Software and Theroy
       university: Peking Unviversity
-      time: 2018 - 2023 (excepted)
+      time: 2018 - 2023
       details: |
           - Scholarship of Schlumberger, Dec. 2019.
           - Scholarship of Schlumberger, Dec. 2020.
@@ -86,10 +87,6 @@ projects:
         link: "https://github.com/unias/docklet"
         tagline: "A cloud operating system for VPC(virtual private cloud)."
 
-      - title: Docklet-batch
-        link: "https://github.com/unias/docklet/tree/batch"
-        tagline: "A batch computing system integrated with Docklet for emerging big data processing."
-
       - title: Akame
         link: "https://github.com/anbo225/Akame"
         tagline: "A high-available and cost-efficient cloud-of-clouds storage service."
@@ -100,6 +97,12 @@ publications:
       Here are some of my publications.
 
     papers:
+      - title: "Performance Modeling for Cloud-hosted Deep Learning Services with Hybrid Representation"
+        authors: Yan Li, Donggang Cao, Hong Mei
+        conference: WIP
+        published: false
+        accepted: false
+        
       - title: "SamProf: Top-down Performance Analysis for Neural Networks via Instruction Sampling"
         authors: Yan Li, Pengcheng Li, Donggang Cao, Hong Mei
         conference: WIP
