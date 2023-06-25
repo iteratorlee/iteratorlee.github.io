@@ -85,7 +85,7 @@ projects:
     assignments:
       - title: Docklet
         link: "https://github.com/unias/docklet"
-        tagline: "A cloud operating system for VPC(virtual private cloud)."
+        tagline: "A cloud operating system for VPC (virtual private cloud)."
 
       - title: Akame
         link: "https://github.com/anbo225/Akame"
