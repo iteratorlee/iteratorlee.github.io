@@ -45,8 +45,8 @@ career-profile:
         large-scale deep learning systems, performance optimization of LLM inference engine, system-model co-design, etc.
 
 education:
-    - degree: PhD in Computer Software and Theory (co-advised by Prof. Hong Mei & Prof. Donggang Cao)
-      university: Peking University
+    - degree: PhD in Computer Software and Theory
+      university: Peking University ((co-advised by Prof. Hong Mei & Prof. Donggang Cao)
       time: 2018 - 2023
       details: |
           - Scholarship of Schlumberger, Dec. 2019.
