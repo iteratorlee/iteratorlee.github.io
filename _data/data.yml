@@ -39,14 +39,14 @@ sidebar:
 career-profile:
     title: Brief Introduction
     summary: |
-        Hi, welcome to my homepage! I am Yan Li/李炎. I received my PhD degree in Computer Software and Theroy from [Software Engineering Institue](http://www.sei.pku.edu.cn), 
+        Hi, welcome to my homepage! I am Yan Li/李炎. I received my PhD degree in Computer Software and Theory from [Software Engineering Institue](http://www.sei.pku.edu.cn), 
         [School of Computer Science](http://cs.pku.edu.cn), [Peking University](https://pku.edu.cn). 
         Currently, I am a Research Engineer at Huawei. My research mainly focuses on 
-        distributed systems, cloud computing and machine learning system.
+        large-scale deep learning systems, performance optimization of LLM inference engine, system-model co-design, etc.
 
 education:
-    - degree: PhD in Computer Software and Theroy
-      university: Peking Unviversity
+    - degree: PhD in Computer Software and Theory (co-advised by Prof. Hong Mei & Prof. Donggang Cao)
+      university: Peking University
       time: 2018 - 2023
       details: |
           - Scholarship of Schlumberger, Dec. 2019.
@@ -62,6 +62,11 @@ education:
           - Courses: Lab. on Operating Systems(94)/Computer Network(94)/Advanced Algebra(92)/Lab. on Compiler Design(91)/Mathematical Logic(91)/Mathematical Analysis(90)/etc.
 
 experiences:
+    - role: Research Engineer
+      time: 2023.07 - Now
+      company: Huawei, Beijing
+      details: |
+
     - role: Research Intern
       time: 2022.02 - 2022.07
       company: Bytedance, Beijing
@@ -83,6 +88,10 @@ projects:
         Here are some of the projects I participated in before.
 
     assignments:
+      - title: SamProf
+        link: "https://github.com/iteratorlee/samprof"
+        tagline: "An application-oblivious profiler for cloud-hosted deep learning workloads."
+
       - title: Docklet
         link: "https://github.com/unias/docklet"
         tagline: "A cloud operating system for VPC (virtual private cloud)."
