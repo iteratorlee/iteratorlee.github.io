@@ -106,6 +106,12 @@ publications:
       Here are some of my publications.
 
     papers:
+      - title: "Centrum: Escape from the Gaussian Process World! Enhancing Database Auto-tuning with Tree-Ensemble Bayesian Optimization"
+        authors: Yuanhao Lai, Pengfei Zheng, Chenpeng Ji, Yan Li, Songhang Zhang, Rutao Zhang, Zhengang Wang, Yunfei Du
+        conference: SIGMOD 2025
+        published: true
+        accepted: true
+
       - title: "Performance Modeling for Cloud-hosted Deep Learning Services with Hybrid Representation"
         authors: Yan Li, Donggang Cao, Hong Mei
         conference: WIP
