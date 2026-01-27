@@ -82,24 +82,6 @@ experiences:
       company: Huawei, Beijing
       details: |
 
-projects:
-    title: Projects
-    intro: >
-        Here are some of the projects I participated in before.
-
-    assignments:
-      - title: SamProf
-        link: "https://github.com/iteratorlee/samprof"
-        tagline: "An application-oblivious profiler for cloud-hosted deep learning workloads."
-
-      - title: Docklet
-        link: "https://github.com/unias/docklet"
-        tagline: "A cloud operating system for VPC (virtual private cloud)."
-
-      - title: Akame
-        link: "https://github.com/anbo225/Akame"
-        tagline: "A high-available and cost-efficient cloud-of-clouds storage service."
-
 publications:
     title: Publications
     intro: |
