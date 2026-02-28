@@ -88,17 +88,11 @@ publications:
       Here are some of my publications.
 
     papers:
-      - title: "Sem-MoE: Semantic-aware Model-Data Collaborative Scheduling for Efficient MoE Inference"
-        authors: Zhengyu Zhang*, Yan Li*, Zhengang Wang, Pengfei Chen, Pengfei Zheng
+      - title: "Semantic Parallelism: Redefining Efficient MoE Inference via Model-Data Co-Scheduling"
+        authors: Yan Li*, Zhengyu Zhang*, Zhengang Wang, Pengfei Chen, Pengfei Zheng
         conference: ICLR 2026
         published: true
         accepted: true
-
-      - title: "Speculative MoE: Communication Efficient Parallel MoE Inference with Speculative Token and Expert Pre-scheduling"
-        authors: Yan Li, Pengfei Zheng, Shuang Chen, Zewei Xu, Yuanhao Lai, Yunfei Du, Zhengang Wang
-        conference: arxiv
-        published: false
-        accepted: false
 
       - title: "Centrum: Escape from the Gaussian Process World! Enhancing Database Auto-tuning with Tree-Ensemble Bayesian Optimization"
         authors: Yuanhao Lai, Pengfei Zheng, Chenpeng Ji, Yan Li, Songhang Zhang, Rutao Zhang, Zhengang Wang, Yunfei Du
@@ -120,19 +114,19 @@ publications:
 
       - title: "Sectum: Accurate Latency Prediction for TEE-hosted Deep Learning Inference"
         authors: Yan Li, Junming Ma, Donggang Cao, Hong Mei
-        conference: The 42th IEEE International Conference on Distributed Computing Systems (ICDCS 2022), Bologna, Italy, Jul 10-Jul 13, 2022
+        conference: ICDCS 2022
         published: false
         accepted: true
         
       - title: "SpotTune: Leveraging Transient Resources for Cost-efficient Hyper-parameter Tuning in the Public Cloud"
         authors: Yan Li, Bo An, Junming Ma, Donggang Cao, Yasha Wang, Hong Mei
-        conference: The 40th IEEE International Conference on Distributed Computing Systems (ICDCS 2020), Singapore, Nov 29-Dec 1, 2020
+        conference: ICDCS 2020
         published: false
         accepted: true
       
       - title: "PrTaurus: An Availability-Enhanced EMR Service on Preemptible Cloud Instances"
         authors: Junming Ma, Yan Li, Xiangqun Chen, Donggang Cao
-        conference: 2020 IEEE International Conference on Web Services (ICWS 2020). IEEE, Beijing, China, Oct 18-24, 2020
+        conference: ICWS 2020
         published: false
         accepted: true
         
@@ -150,7 +144,7 @@ publications:
       
       - title: "DCStore: A Deduplication-Based Cloud-of-Clouds Storage Service"
         authors: Bo An, Yan Li, Junming Ma, Donggang Cao, Gang Huang
-        conference: IEEE International Conference on Web Service (ICWS 2019), Milan, Italy, Jul 8-13, 2019
+        conference: ICWS 2019
         source: "../assets/pdfs/icws_2019_anbo.pdf"
         published: true
         accepted: true
@@ -171,7 +165,7 @@ publications:
       
       - title: "BDViewer - A Web-Based Big Data Processing and Visualization Tool"
         authors: Yan Li, Bo An, Junming Ma, Donggang Cao
-        conference: IEEE International Conference on Computers Software and Applications (COMPSAC2018), Tokyo, Japan, Jul 23-27, 2018
+        conference: COMPSAC 2018
         source: "../assets/pdfs/compsac_2018_ly.pdf"
         published: true
 
