@@ -41,8 +41,8 @@ career-profile:
     summary: |
         Hi, welcome to my homepage! I am Yan Li/李炎. I received my PhD degree in Computer Software and Theory from [Software Engineering Institue](http://www.sei.pku.edu.cn), 
         [School of Computer Science](http://cs.pku.edu.cn), [Peking University](https://pku.edu.cn). 
-        Currently, I am a Research Engineer at Huawei. My research mainly focuses on 
-        large-scale deep learning systems, performance optimization of LLM inference engine, system-model co-design, etc.
+        Currently, I am a Staff Engineer at BAAI (Beijing Academy of Artificial Intelligence, 北京智源人工智能研究院). My research mainly focuses on 
+        large-scale AI systems, performance optimization of LLM/VLM inference systems, heterogenous systems, model-system co-design, etc.
 
 education:
     - degree: PhD in Computer Software and Theory
@@ -59,11 +59,15 @@ education:
           - Award of Scientific Research, Dec. 2017.
           - Meritorious Winner of Mathematical Contest in Modeling, Apr. 2017.
           - Scholarship of Freshman, Sep. 2014.
-          - Courses: Lab. on Operating Systems(94)/Computer Network(94)/Advanced Algebra(92)/Lab. on Compiler Design(91)/Mathematical Logic(91)/Mathematical Analysis(90)/etc.
 
 experiences:
+    - role: Staff Engineer
+      time: 2026.08 - Now
+      company: BAAI, Beijing
+      details: |
+    
     - role: Research Engineer
-      time: 2023.07 - Now
+      time: 2023.07 - 2026.07
       company: Huawei, Beijing
       details: |
 
