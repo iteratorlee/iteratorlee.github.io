@@ -104,12 +104,6 @@ publications:
         published: true
         accepted: true
 
-      - title: "Performance Modeling for Cloud-hosted Deep Learning Services with Hybrid Representation"
-        authors: Yan Li, Donggang Cao, Hong Mei
-        conference: arxiv
-        published: false
-        accepted: false
-        
       - title: "SamProf: Top-down Performance Analysis for Neural Networks via Instruction Sampling"
         authors: Yan Li, Pengcheng Li, Donggang Cao, Hong Mei
         conference: axriv
